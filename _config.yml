@@ -6,19 +6,17 @@
 # --- Required options --- #
 
 # Name of website
-title: "Bricks in Time"
+title: "The Harrimans Adventure"
 
 # Your name to show in the footer
-author: "Lego SCCM Guy"
+author: "Barry Harriman"
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Microsoft: "https://microsoft.com"
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    
 
 # --- Logo --- #
 
@@ -65,7 +63,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: CM, the Lego way, One Brick at a time
+rss-description: Harrimans Adventure
 
 # --- General options --- #
 
@@ -78,7 +76,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "legosccmguy.com"
+url-pretty: "harriman.id.au"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
